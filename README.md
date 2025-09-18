@@ -1,5 +1,5 @@
 
-1. Title: Assignment3
+1. Title: Taha
 
 2. General Problem:
 To beigin, this project implements an ePortfolio application to manage all types of investments whether big or small, including stocks and mutual funds. Users can add, sell, update, search and load or save investments with specific criteria to a file. The program also calculates total gains from investments. All this is done by using GUI, so you ahve an app like interface.
